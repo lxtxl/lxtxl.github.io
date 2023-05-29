@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://lxtxl.github.io/blog</id>
-    <title>서현철 홈페이지 Blog</title>
-    <updated>2023-05-25T00:00:00.000Z</updated>
+    <title>서현철의 홈페이지 Blog</title>
+    <updated>2023-05-22T00:00:00.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://lxtxl.github.io/blog"/>
-    <subtitle>서현철 홈페이지 Blog</subtitle>
+    <subtitle>서현철의 홈페이지 Blog</subtitle>
     <icon>https://lxtxl.github.io/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[첫 블로그 생성]]></title>
         <id>https://lxtxl.github.io/blog/first-blog-post</id>
         <link href="https://lxtxl.github.io/blog/first-blog-post"/>
-        <updated>2023-05-25T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[홈페이지를 개설하여, 필요한 내용들을 정리하고자 합니다.]]></summary>
-        <content type="html"><![CDATA[<p>홈페이지를 개설하여, 필요한 내용들을 정리하고자 합니다.</p>]]></content>
+        <updated>2023-05-22T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[필요한 내용을 정리하기 위해 블로그 홈페이지 개설]]></summary>
+        <content type="html"><![CDATA[<p>필요한 내용을 정리하기 위해 블로그 홈페이지 개설</p>]]></content>
         <author>
-            <name>서 현철</name>
+            <name>서현철</name>
             <uri>https://github.com/lxtxl</uri>
         </author>
-        <category label="welcom" term="welcom"/>
-        <category label="homepage" term="homepage"/>
+        <category label="hola" term="hola"/>
+        <category label="docusaurus" term="docusaurus"/>
     </entry>
 </feed>

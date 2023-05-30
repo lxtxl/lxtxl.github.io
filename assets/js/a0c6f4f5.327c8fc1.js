@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[596],{4420:e=>{e.exports=JSON.parse('{"title":"AWS","description":"AWS \uad00\ub828 \uc790\ub8cc","slug":"/category/aws","permalink":"/docs/category/aws","navigation":{"next":{"title":"AWS Blog \uc77d\uc740 \uc790\ub8cc","permalink":"/docs/AWS/blog"}}}')}}]);
